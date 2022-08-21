@@ -1,4 +1,4 @@
-# Visma.Bootcamp.Hackaton
+# Visma.Bootcamp.Hackathon
 
 ## It's time for you to SHINE 🎉!
 
